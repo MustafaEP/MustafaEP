@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MustafaEP
-- 👀 I’m ComputerEngineer
+- 👀 I’m ComputerEngineer Student
 - 🌱 I’m Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

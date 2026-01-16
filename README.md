@@ -1,67 +1,60 @@
-# Hi, I'm Mustafa 👋
-
-**Backend Engineer • AI Integration Specialist**
-
-Building scalable backend systems and AI-powered applications.
-
-📫 [LinkedIn](https://www.linkedin.com/in/mustafa-erhan-portakal-2142101ba/) • [Portfolio](https://mustafaerhanportakal.com) • [Email](mailto:portakalm11@gmail.com)
-
----
+# Hi, I’m Mustafa 👋  
+Backend-focused software developer building scalable systems and AI-powered applications.
 
 ## About Me
+I’m a software developer primarily focused on backend engineering, system design, and AI-driven products.  
+I enjoy building real-world systems, designing clean architectures, and understanding how backend services behave in production.
 
-Backend-focused software developer specializing in **system design**, **scalable architectures**, and **AI-driven products**.
+I previously gained experience with ASP.NET through internships, which helped me build a strong foundation in backend concepts.  
+Today, I mainly work with **Node.js, Django, and FastAPI**, focusing on modern backend architectures and AI-integrated services.
 
-- 🔧 Building production-ready backend services with Node.js, Django, and FastAPI
-- 🤖 Integrating AI/ML models into backend systems
-- 🏗️ Designing clean, scalable architectures
-- 📊 Previous experience with ASP.NET Core
+## GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaEP&hide_title=true&show_icons=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaEP&layout=compact)
 
----
+## Core Tech Stack
+**Backend**
+- 🟢 Node.js
+- 🐍 Django
+- ⚡ FastAPI
+- 🔷 ASP.NET Core (previous experience)
 
-## Tech Stack
+**AI & Data**
+- 🤖 AI-powered backend services
+- 🧠 Mood analysis & recommendation systems
+- 🔌 AI integration into production backends
 
-**Backend (Primary Focus)**  
-Node.js • Django • FastAPI • ASP.NET Core
+**Frontend**
+- ⚛️ React
+- 📱 React Native
+- 📘 TypeScript
 
-**AI & Data**  
-Python • AI/ML Integration • Recommendation Systems
+**DevOps & Infrastructure**
+- 🐳 Docker
+- 🔄 GitHub Actions (CI/CD)
+- 🐧 Linux
+- 🔧 Git
 
-**Frontend**  
-React • React Native • TypeScript
-
-**DevOps & Tools**  
-Docker • GitHub Actions • Linux • Git
-
-**Databases**  
-PostgreSQL • SQL Server
-
----
-
-## Projects
-
-**🎧 Moodweave** – AI-Based Music Recommendation Platform  
-AI-driven mood analysis with personalized recommendations  
-→ [Live Demo](https://moodweave.mustafaerhanportakal.com)
-
-**🖥️ Management Panel** – Enterprise Web Application  
-Secure authentication and data management system  
-→ [Live Demo](https://yonetim.mustafaerhanportakal.com)
-
----
+**Databases**
+- 🐘 PostgreSQL
+- 💾 SQL Server
 
 ## Certifications
-
 **IBM Full Stack Software Developer – Professional Certificate**  
-Coursera • IBM  
-[View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZA0GJFIPNUUT)
+Coursera · IBM  
+https://www.coursera.org/account/accomplishments/professional-cert/ZA0GJFIPNUUT
+
+## Projects & Live Systems
+- 🖥️ **Management Panel Web App**  
+  https://yonetim.mustafaerhanportakal.com
+
+- 🎧 **Moodweave – AI-based Music Recommendation Platform**  
+  https://moodweave.mustafaerhanportakal.com
+
+## Get in Touch
+- 💼 LinkedIn: https://www.linkedin.com/in/mustafa-erhan-portakal-2142101ba/
+- 📫 Email: portakalm11@gmail.com
+- 🌐 Portfolio: https://mustafaerhanportakal.com
 
 ---
-
-## Connect
-
-**Open to backend engineering and AI integration opportunities**
-
-💼 [LinkedIn](https://www.linkedin.com/in/mustafa-erhan-portakal-2142101ba/)  
-📧 [portakalm11@gmail.com](mailto:portakalm11@gmail.com)  
-🌐 [mustafaerhanportakal.com](https://mustafaerhanportakal.com)
+*Focused on backend engineering, AI integration, and building systems that actually ship.*

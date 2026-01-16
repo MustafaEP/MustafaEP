@@ -8,10 +8,6 @@ I enjoy building real-world systems, designing clean architectures, and understa
 I previously gained experience with ASP.NET through internships, which helped me build a strong foundation in backend concepts.  
 Today, I mainly work with **Node.js, Django, and FastAPI**, focusing on modern backend architectures and AI-integrated services.
 
-## GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaEP&hide_title=true&show_icons=false&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaEP&layout=compact&langs_count=8&cache_seconds=1800)
-
 ## Core Tech Stack
 **Backend**
 - 🟢 Node.js

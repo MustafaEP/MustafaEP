@@ -9,8 +9,8 @@ I previously gained experience with ASP.NET through internships, which helped me
 Today, I mainly work with **Node.js, Django, and FastAPI**, focusing on modern backend architectures and AI-integrated services.
 
 ## GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaEP&hide_title=true&show_icons=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaEP&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaEP&hide_title=true&show_icons=false&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaEP&layout=compact&cache_seconds=1800)
 
 ## Core Tech Stack
 **Backend**
